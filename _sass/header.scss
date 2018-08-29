@@ -1,0 +1,68 @@
+@include keyframes(spin) {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.header-nav {
+  margin: 48px 42px;
+  position: relative;
+
+  @include greater_than_tablet {
+    position: unset;
+  }
+}
+
+.menu-wrapper {
+  @include greater_than_tablet {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+  ul {
+    margin: 150px 0 0;
+  }
+
+  li {
+    margin: 25px 0 0;
+  }
+
+  img {
+    width: 50px;
+  }
+}
+
+.header-marquee__wrapper {
+  width: 150px;
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  @include greater_than_tablet {
+    right: unset;
+    left: 0;
+    width: unset;
+  }
+
+  h2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    font: $times;
+    text-align: center;
+
+    @include greater_than_tablet {
+      position: unset;
+      transform: unset;
+      top: unset;
+      left: unset;
+      text-align: unset;
+    }
+  }
+
+  img {
+    @include animation(spin 12s linear infinite);
+  }
+}

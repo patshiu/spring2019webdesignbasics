@@ -1,0 +1,107 @@
+$ace: 14px/14px "Ace Lift", Arial, "Helvetica Neue", Helvetica, sans-serif;
+$times: 14px/14px TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+
+$tablet-width: 700px;//changed from 768
+$laptop-width: 1024px;
+$desktop-width: 1440px;
+$fourk-width: 1920px;
+
+@mixin tablet {
+  @media (min-width: #{$tablet-width}) and (max-width: #{$laptop-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin laptop {
+  @media (min-width: #{$laptop-width}) and (max-width: #{$desktop-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{$desktop-width}) and (max-width: #{$fourk-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin fourk {
+  @media (min-width: #{$fourk-width}) {
+    @content;
+  }
+}
+
+@mixin greater_than_tablet {
+  @media (min-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
+@mixin greater_than_laptop {
+  @media (min-width: #{$laptop-width}) {
+    @content;
+  }
+}
+
+@mixin animation($animate...) {
+  $max: length($animate);
+  $animations: '';
+
+  @for $i from 1 through $max {
+    $animations: #{$animations + nth($animate, $i)};
+
+    @if $i < $max {
+      $animations: #{$animations + ", "};
+    }
+  }
+  -webkit-animation: $animations;
+  -moz-animation: $animations;
+  -o-animation: $animations;
+  animation: $animations;
+}
+
+@mixin keyframes($animationName) {
+  @-webkit-keyframes #{$animationName} {
+    @content;
+  }
+  @-moz-keyframes #{$animationName} {
+    @content;
+  }
+  @-o-keyframes #{$animationName} {
+    @content;
+  }
+  @keyframes #{$animationName} {
+    @content;
+  }
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+h1,h2,h3,h4,h5,li {
+  font: $ace;
+}
+
+p {
+  font: $times;
+}
+
+main {
+  border: 1px solid white;
+  margin: 50px 25px;
+  padding: 0 25px;
+
+  @include greater_than_tablet {
+    margin: 130px 0 130px 22vw;
+    width: 56vw;
+  }
+
+  h1 {
+    margin: 50px auto;
+  }
+
+  p {
+    margin: 50px 0;
+  }
+}
