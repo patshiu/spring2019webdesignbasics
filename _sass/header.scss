@@ -25,6 +25,10 @@
     margin: 113px 0 0 90px;
   }
 
+  @include fourk {
+    margin: 150px 0 0 120px;
+  }
+
   ul {
     margin: 150px 0 0;
 
@@ -35,6 +39,10 @@
     @include desktop {
       margin: 80px 0 0;
     }
+
+    @include fourk {
+      margin: 85px 0 0;
+    }
   }
 
   li {
@@ -43,6 +51,14 @@
 
   img {
     width: 50px;
+
+    @include greater_than_laptop {
+      width: 75px;
+    }
+
+    @include fourk {
+      width: 100px;
+    }
   }
 }
 
@@ -51,13 +67,14 @@
   position: absolute;
   top: 0;
   right: 0;
-  max-width: 700px;
+  max-width: 1100px;
+  margin: 50px 0 0;
 
   @include greater_than_tablet {
     right: unset;
     left: 0;
     width: unset;
-    margin-left: 22%;
+    margin: 0 0 0 22%;
     width: 56%;
     padding: 0 26px;
     height: 133px;
@@ -72,6 +89,11 @@
   @include desktop {
     padding: 0 85px;
     height: 250px;
+  }
+
+  @include fourk {
+    padding: 0 115px;
+    height: 330px;
   }
 
   h2 {
@@ -106,6 +128,7 @@
     @include fourk {
       font-size: 28px;
       line-height: 28px;
+      margin-top: 200px;
     }
   }
 
@@ -115,11 +138,14 @@
 }
 
 .header-marquee__image {
-  width: 150px;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  left: 100%;
-  top: 100%;
+
+  @include greater_than_tablet {
+    width: 150px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 100%;
+    top: 100%;
+  }
 
   @include laptop {
     width: 200px;
@@ -127,5 +153,9 @@
 
   @include desktop {
     width: 220px;
+  }
+
+  @include fourk {
+    width: 300px;
   }
 }
