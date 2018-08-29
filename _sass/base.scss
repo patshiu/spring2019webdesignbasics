@@ -81,20 +81,61 @@ body {
 
 h1,h2,h3,h4,h5,li {
   font: $ace;
+
+  @include laptop {
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  @include desktop {
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  @include fourk {
+    font-size: 28px;
+    line-height: 28px;
+  }
 }
 
 p {
   font: $times;
+
+  @include laptop {
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  @include desktop {
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  @include fourk {
+    font-size: 28px;
+    line-height: 28px;
+  }
 }
 
 main {
   border: 1px solid white;
   margin: 50px 25px;
   padding: 0 25px;
+  max-width: 700px;
 
   @include greater_than_tablet {
     margin: 130px 0 130px 22vw;
     width: 56vw;
+  }
+
+  @include laptop {
+    margin: 177px 0 177px 22vw;
+    padding: 0 50px;
+  }
+
+  @include desktop {
+    margin: 250px 0 250px 22vw;
+    padding: 0 85px;
   }
 
   h1 {
