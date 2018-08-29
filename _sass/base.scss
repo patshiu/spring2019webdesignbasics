@@ -77,6 +77,13 @@ $fourk-width: 1920px;
 body {
   background-color: black;
   color: white;
+  max-width: 1440px;
+  margin: 0 auto;
+  position: relative;
+}
+body:before, body:after{
+    content: ' ';
+    display: table;
 }
 
 h1,h2,h3,h4,h5,li {
@@ -124,17 +131,17 @@ main {
   max-width: 700px;
 
   @include greater_than_tablet {
-    margin: 130px 0 130px 22vw;
-    width: 56vw;
+    margin: 130px 0 130px 22%;
+    width: 56%;
   }
 
   @include laptop {
-    margin: 177px 0 177px 22vw;
+    margin: 177px 0 177px 22%;
     padding: 0 50px;
   }
 
   @include desktop {
-    margin: 250px 0 250px 22vw;
+    margin: 250px 0 250px 22%;
     padding: 0 85px;
   }
 
