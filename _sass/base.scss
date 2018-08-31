@@ -1,5 +1,5 @@
-$ace: 14px/14px "Ace Lift", Arial, "Helvetica Neue", Helvetica, sans-serif;
-$times: 14px/14px TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+$ace: 14px/16px "Ace Lift", Arial, "Helvetica Neue", Helvetica, sans-serif;
+$times: 14px/16px TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 
 $tablet-width: 700px;//changed from 768
 $laptop-width: 1024px;
@@ -78,15 +78,20 @@ body {
   background-color: black;
   color: white;
   max-width: 1920px;
-  margin: 0 auto;
+  margin: 0 0;
   position: relative;
+
+  @include fourk {
+    margin: 0 auto;
+  }
 }
+
 body:before, body:after{
     content: ' ';
     display: table;
 }
 
-h1,h2,h3,h4,h5,li {
+h1,h2 {
   font: $ace;
 
   @include laptop {
@@ -105,22 +110,24 @@ h1,h2,h3,h4,h5,li {
   }
 }
 
-p {
+// ,h3,h4,h5,li
+
+p, h3, li {
   font: $times;
 
   @include laptop {
     font-size: 18px;
-    line-height: 18px;
+    line-height: 20px;
   }
 
   @include desktop {
     font-size: 20px;
-    line-height: 20px;
+    line-height: 22px;
   }
 
   @include fourk {
     font-size: 28px;
-    line-height: 28px;
+    line-height: 30px;
   }
 }
 
@@ -130,14 +137,15 @@ main {
   padding: 0 25px;
   max-width: 1100px;
 
+
   @include greater_than_tablet {
     margin: 130px 0 130px 22%;
     width: 56%;
+    padding: 0 50px;
   }
 
   @include laptop {
     margin: 177px 0 177px 22%;
-    padding: 0 50px;
   }
 
   @include desktop {
@@ -150,35 +158,65 @@ main {
     padding: 0 115px;
   }
 
-  h1 {
-    margin: 50px auto;
+  * {
 
-    @include greater_than_tablet {
-      margin: 75px auto;
+    @include tablet {
+      max-width: 400px;
     }
 
+    max-width: 700px;
+  }
+
+  h1, h2 {
+    margin: 50px 0 25px;
+
     @include desktop {
-      margin: 85px auto;
+      margin: 85px 0 40px;
     }
 
     @include fourk {
-      margin: 115px auto;
+      margin: 115px 0 50px;
     }
   }
 
+  h3, h4, h5 {
+    margin: 50px 0 15px;
+  }
+
   p {
-    margin: 50px auto;
+    margin: 0 0 50px;
 
-    @include desktop {
-      margin: 75px auto;
-    }
+    // @include desktop {
+    //   margin: 75px 0;
+    // }
 
-    @include fourk {
-      margin: 85px auto;
-    }
+    // @include fourk {
+    //   margin: 85px 0;
+    // }
   }
 
   img {
     width: 100%;
+    margin: 25px 0;
   }
+
+  ul {
+    margin: 25px 0 50px 30px;
+  }
+
+  li {
+    margin: 10px 0;
+  }
+
+  // li::before {
+  //     content: "- ";
+  //   }
+}
+
+a {
+  border-bottom: 1px solid white;
+}
+
+*::selection {
+  background: blue;
 }

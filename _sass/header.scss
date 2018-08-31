@@ -11,6 +11,10 @@
   @include greater_than_tablet {
     position: unset;
   }
+
+  a {
+    border-bottom: unset;
+  }
 }
 
 .menu-wrapper {
@@ -47,6 +51,7 @@
 
   li {
     margin: 25px 0 0;
+    font: $ace;
   }
 
   img {
