@@ -18,6 +18,7 @@ permalink: /assignments
 
 * Notes
   * Please email us the link to your GitHub Pages before class
+  * We've put together a guide on how to create new pages on GitHub [here]( {{ 'guides/using_github_pages.html' | absolute_url }} )
 
 ## Week 1 (due 9/5)
 * Reading:
