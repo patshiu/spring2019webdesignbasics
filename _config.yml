@@ -18,6 +18,7 @@ exclude:
 
 include: 
   - _pages
+  - _guides
 
 sass:
   style: compressed
