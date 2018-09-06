@@ -11,7 +11,7 @@ permalink: /assignments
   * Remember to come prepared with 1-2 questions for discussion.
 
 * Project
-  * [Project 1]({{ 'projects/#project-1---hyperlink-text' | absolute_url }}) due 9/12
+  * [Project 1]({{ 'projects#project-1---hyperlink-text' | absolute_url }}) due 9/12
 
 * Design
   * Create an [Are.na](https://www.are.na/) account and link to it on your main GitHub page. Save at least one website that you like or find interesting to your Are.na page. If you need a place to start, look at some of the links on the [resources](../resources) page. Come to class prepared to discuss your choice.
