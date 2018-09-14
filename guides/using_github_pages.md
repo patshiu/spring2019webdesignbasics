@@ -22,5 +22,7 @@ GitHub allows us to create one repository named [insert username].github.io. Thi
 ![alt text]({{ "assets/guides/using_github_pages/using_github_2.gif" | absolute_url }})
 3. You will be brought to a page with a "quick setup" option. Click on the button that says "Set up in Desktop". Allow your browser to open GitHub Desktop. Make sure the repo is saving to your class folder, then click "clone".
 ![alt text]({{ "assets/guides/using_github_pages/using_github_3.gif" | absolute_url }})
-4. Create your files in the repository and make the changes you want to make. Return to GitHub Desktop. You should see your changes reflected in the repository. Enter a commit message and click "Commit to Master". You will then be able to click "Publish branch", which will push your code to *username.github.io/my_repo*. That's it!
+4. Create your files in the repository and make the changes you want to make. Return to GitHub Desktop. You should see your changes reflected in the repository. Enter a commit message and click "Commit to Master", which will push your code to *username.github.io/my_repo* You will then be able to click "Publish branch".
 ![alt text]({{ "assets/guides/using_github_pages/using_github_4.gif" | absolute_url }})
+5. On github.com, go to your repository setting and scroll down to "GitHub Pages". Under source, change the dropdown to "master branch" and click save. It may take a few minutes for your site to publish.
+![alt text]({{ "assets/guides/using_github_pages/using_github_5.gif" | absolute_url }})
