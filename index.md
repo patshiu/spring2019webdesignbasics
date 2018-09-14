@@ -8,6 +8,10 @@ Web Design Basics is designed to introduce students to programming as a creative
 
 ![Battle programmer Shirase]({{ "/assets/battle_programmer_shirase.jpg" | absolute_url }})
 
+## Teachers
+* [Seth Kranzler](mailto:kranzles@newschool.edu)
+* [Will Denton](mailto:goldweiw@newschool.edu)
+
 ## Course Outline
 
 ### Weeks 1-3 *Introduction to Web Design and Computing Fundamentals*
