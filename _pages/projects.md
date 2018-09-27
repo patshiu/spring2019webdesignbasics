@@ -5,6 +5,12 @@ permalink: /projects
 
 # Projects
 
+## Project 2 - Iterations on a poster 
+
+### Week 1
+
+Choose a real or fake event that you want to promote. Using flexbox, make five iterations of a promotional poster for the event using some sort of a system or grid. There should be a name for the event, date, place, description, and anything else you would like to include (graphics, contact etc). These should be quick iterations that we will refine in the next class and for the following week. Take a look at [vertical rhythm](http://verticalrhythm.org/) or some of the early Swiss posters by Josef Müller-Brockmann if you need inspiration.
+
 ## Project 1 - Hyperlink Text 
 
 ### Week 1

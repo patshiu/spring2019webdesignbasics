@@ -5,6 +5,22 @@ permalink: /assignments
 
 # Assignments
 
+## Week 4 (due 10/3)
+* Reading
+  * [Designer as Producer by Ellen Lupton](http://elupton.com/2010/10/the-designer-as-producer/)
+  * [Fuck Content by Michael Rock](https://2x4.org/ideas/2/fuck-content/)
+
+* Coding Practice
+  * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - this is a great reference for how to use flexbox
+  * Optional - LevelUpTuts flexbox videos [two](https://youtu.be/Jo_FByTgbIU) and [three](https://youtu.be/8yFelLx1XPw)
+  * Optional - [freeCodeCamp CSS FlexBox exercises](https://learn.freecodecamp.org)
+
+* Project
+  * [Project 2]({{ 'projects#project-2---Iterations-on-a-poster-' | absolute_url }})
+
+* Notes 
+  * Next class will be a work session and special topics. Will and I will be helping with one-on-one code and design help. This will also be a time to ask "how do I do *this*?"
+
 ## Week 3 (due 9/26)
 * Reading
   * [The Crystal Goblet by Beatrice Warde](http://www.arts.ucsb.edu/faculty/reese/classes/artistsbooks/Beatrice%20Warde,%20The%20Crystal%20Goblet.pdf)
