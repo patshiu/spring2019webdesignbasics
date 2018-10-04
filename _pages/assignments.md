@@ -5,6 +5,13 @@ permalink: /assignments
 
 # Assignments
 
+## Week 5 (due 10/10)
+* Project
+  * [Project 2]({{ 'projects#project-2---Iterations-on-a-poster-' | absolute_url }})
+
+* Design
+  * Post another 1-3 websites to your Are.na using the links in [resources]({{ 'resources' | absolute_url }}) if you need them. Try to post a variety of sites (e.g. not just design studios).
+
 ## Week 4 (due 10/3)
 * Reading
   * [Designer as Producer by Ellen Lupton](http://elupton.com/2010/10/the-designer-as-producer/)
