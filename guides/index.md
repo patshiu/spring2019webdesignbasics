@@ -5,3 +5,4 @@ layout: default
 # Guides
 
 * [Using GitHub Pages](using_github_pages)
+* [Loading External Fonts](external_fonts)

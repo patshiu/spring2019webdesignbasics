@@ -148,8 +148,12 @@
     width: 150px;
     position: absolute;
     transform: translate(-50%, -50%);
-    left: 100%;
+    left: 110%;
     top: 100%;
+  }
+
+  @include greater_than_laptop {
+    left: 100%;
   }
 
   @include laptop {

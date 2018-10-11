@@ -5,6 +5,19 @@ permalink: /assignments
 
 # Assignments
 
+## Week 6 (due 10/17)
+* Reading
+  * [In Defense of Tebby Tubbitz by Terre Thaemlitz](http://www.comatonse.com/writings/tebbe.html)
+  * [Turing Complete User by Olia Lialina](http://contemporary-home-computing.org/turing-complete-user/)
+
+* Project
+  * [Project 3]({{ 'projects#project-3---15-variations' | absolute_url }})
+
+* Coding Practice (optional exercises and materials)
+  * Learn more about the position property [here](https://css-tricks.com/almanac/properties/p/position/)
+  * Check out our new guide on how to use external fonts [here]({{ 'guides/external_fonts' | absolute_url }})
+  * Read Learning to Code chapter 10
+
 ## Week 5 (due 10/10)
 * Project
   * [Project 2]({{ 'projects#project-2---Iterations-on-a-poster-' | absolute_url }})

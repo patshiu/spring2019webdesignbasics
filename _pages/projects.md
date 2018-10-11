@@ -5,6 +5,15 @@ permalink: /projects
 
 # Projects
 
+## Project 3 - 15 Variations
+
+### Week 1 
+
+Find a piece of text that could easily fit on one printed page. This could be an excerpt from an essay, an interview, poem, etc. You will make 15 variations of this text. Each variation will be a separate webpage. For each variation, you will focus on changing the text's form through shifts in composition, typography, hierarchy, scale, and pacing. The text's content must remain intact throughout all 15 variations. Define 5 rules of changes for your text. For each of the rule come up with 3 variations each. For example, if the first rule is scale, then invent 3 significantly different ways of scaling the text. The purpose of the assignment is to push the boundaries and play with legibility, so no minor changes—shoot for making as broad a variation as possible. Do not use images. 
+
+For inspiration take a look at Carl Dair’s [principles of typographic contrast](https://drive.google.com/open?id=1qULLI4dcY1gE54EaLxhYmL_Bq7puo5qI) that we discussed in week 3
+
+
 ## Project 2 - Iterations on a poster 
 
 ### Week 1
