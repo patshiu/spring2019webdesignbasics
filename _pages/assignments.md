@@ -5,6 +5,18 @@ permalink: /assignments
 
 # Assignments
 
+## Week 7 (due 10/24)
+* Reading
+  * [Scroll, Skim, Stare by Orit Gat](http://www.thewhitereview.org/feature/scroll-skim-stare/)
+  * Be sure to come in with one to two questions about the reading that are *not* yes/no questions.
+
+* Project
+  * [Project 3]({{ 'projects#project-3---15-variations' | absolute_url }})
+
+* Coding resources
+  * [Google responsive design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
+  * [Beginners Guide to Media Queries](https://medium.com/beginners-guide-to-mobile-web-development/media-queries-54a1a463356f)
+
 ## Week 6 (due 10/17)
 * Reading
   * [In Defense of Tebby Tubbitz by Terre Thaemlitz](http://www.comatonse.com/writings/tebbe.html)

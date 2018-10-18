@@ -13,6 +13,9 @@ Find a piece of text that could easily fit on one printed page. This could be an
 
 For inspiration take a look at Carl Dair’s [principles of typographic contrast](https://drive.google.com/open?id=1qULLI4dcY1gE54EaLxhYmL_Bq7puo5qI) that we discussed in week 3
 
+### Week 2
+
+Add a navigation page for your 15 variations. Use the tools we learned in class to make the navigation page responsive for mobile, tablet, and desktop screen sizes. Your variations do not need to be responsive but feel free to update them if you wish. Get creative with your design and experiment with different kinds of nav layouts, keeping usability in mind.
 
 ## Project 2 - Iterations on a poster 
 

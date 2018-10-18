@@ -13,7 +13,6 @@ layout: default
 * [Kohana Wilson](https://wilsk903.github.io/)
 * [Nalin Chahal](https://nalinchahal.github.io)
 * [Elizabeth Wu](https://elizabethwu321.github.io/)
-* [Kyrstan Brandt](https://kyrstanb.github.io/)
 * [Rebecca Ramos](https://becramos.github.io/)
 * [Alice Ho](https://gofindalice.github.io/)
 * [Oliver Hoegh](https://earthtooliver.github.io/)
