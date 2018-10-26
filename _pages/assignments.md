@@ -5,6 +5,23 @@ permalink: /assignments
 
 # Assignments
 
+## Week 8 (due 10/31)
+* Reading
+  * [Jodi’s Infrastructure by Alexander R. Galloway](https://www.e-flux.com/journal/74/59810/jodi-s-infrastructure/)
+
+* Project
+  * [Project 4]({{ 'projects#project-4---hoverstates-and-animation' | absolute_url }})
+
+* Coding resources
+  * [Guide: Using CSS Transitions and Animations]({{ 'guides/animation_transition' | absolute_url }})
+  * [Easing Functions](https://easings.net/)
+  * [CSS Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+  * [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+
+* Design
+  * [Google material design](https://material.io/design/motion/understanding-motion.html#principles)
+  * [Sketch](https://www.sketchapp.com/)
+
 ## Week 7 (due 10/24)
 * Reading
   * [Scroll, Skim, Stare by Orit Gat](http://www.thewhitereview.org/feature/scroll-skim-stare/)

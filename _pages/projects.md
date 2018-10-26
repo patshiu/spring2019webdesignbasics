@@ -5,6 +5,33 @@ permalink: /projects
 
 # Projects
 
+## Project 4 - Hoverstates and Animation
+
+Since the inception of the personal computer, our main interactions with the digital world have been through a desktop interface. A metaphorical workspace where a mouse pointer is our avatar, a waste paper basket is a digital recycling bin, and our ‘files’ are stored in ‘folders’. As we move to the new touch interaction model, the desktop interface may soon be a thing of the past, including its interactions and metaphors. With a touch screen, the touch of the cursor is replaced by the human finger.
+
+This project asks you to investigate the desktop interface, specifically through its unique interaction of the hover state. Hover states are considered a ‘pseudo state’, something explicitly thought of as in-between. They occur when your mouse cursor is positioned above another element on the page and act as an on/off switch with only one level of interaction. Even with these limited capabilities, they’ve become a key aspect of desktop web design.
+
+Create 5 one-page web pages that each explore a physical metaphor in digital space through a single hover state (clock, bouncing ball, police car light, wind, etc.) each animating one of the following CSS properties on hover:
+* Background color
+* Scale 
+* Shape 
+* Rotation
+* Any other CSS property or combination of them (see ‘Animatable Properties’ below)
+
+References
+* [http://love.xxx/](http://love.xxx/)
+* [http://endlessshout.icaphila.org/](http://endlessshout.icaphila.org/)
+* [http://www.jellotime.com/](http://www.jellotime.com/)
+* [http://www.onandoff.org/](http://www.onandoff.org/)
+* [http://www.rothko.me/](http://www.rothko.me/)
+* [http://martinbek.com/](http://martinbek.com/)
+* [https://integratedconf.org/#speakers](https://integratedconf.org/#speakers)
+* [http://downloadsfolder.jamiemclellan.com/page/2](http://downloadsfolder.jamiemclellan.com/page/2)
+* [http://werkleitz.de/videorama](http://werkleitz.de/videorama)
+* [https://rumo.rs/](https://rumo.rs/)
+* [https://www.bloomberg.com/businessweek/design-conference/](https://www.bloomberg.com/businessweek/design-conference/)
+
+
 ## Project 3 - 15 Variations
 
 ### Week 1 
