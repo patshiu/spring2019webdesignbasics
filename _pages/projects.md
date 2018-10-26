@@ -12,11 +12,12 @@ Since the inception of the personal computer, our main interactions with the dig
 This project asks you to investigate the desktop interface, specifically through its unique interaction of the hover state. Hover states are considered a ‘pseudo state’, something explicitly thought of as in-between. They occur when your mouse cursor is positioned above another element on the page and act as an on/off switch with only one level of interaction. Even with these limited capabilities, they’ve become a key aspect of desktop web design.
 
 Create 5 one-page web pages that each explore a physical metaphor in digital space through a single hover state (clock, bouncing ball, police car light, wind, etc.) each animating one of the following CSS properties on hover:
+
 * Background color
 * Scale 
 * Shape 
 * Rotation
-* Any other CSS property or combination of them (see ‘Animatable Properties’ below)
+* Any other CSS property or combination of them
 
 References
 * [http://love.xxx/](http://love.xxx/)
