@@ -5,6 +5,14 @@ permalink: /projects
 
 # Projects
 
+## Project 6 - Final
+
+Create a digital environment through the browser that has a similar immersive quality to that of a physical installation. The environment that you create should engross the visitor and take them on some kind of an emotional journey. That could take the form of a linear narrative—something with a beginning, middle, and end—or something that is more abstract and exploratory. The idea is to use the web as an artistic medium to transport your audience somewhere else.
+
+## Project 5 - Javascript Transformation
+
+Using all the tools that we have learned thus far, create a complete website that pretends to be something it is not. Maybe it’s an e-commerce site that turns into a music video; it could be a business tool that turns into a hoax, a dystopia, a parallel universe—that’s up to you. But the main requirement is that the site is at first believable and then undergoes some kind of transformation triggered by user interaction (Javascript!) that reveals it is not what you thought it was. Consider how it will render on different devices and use media queries where necessary.
+
 ## Project 4 - Hoverstates and Animation
 
 Since the inception of the personal computer, our main interactions with the digital world have been through a desktop interface. A metaphorical workspace where a mouse pointer is our avatar, a waste paper basket is a digital recycling bin, and our ‘files’ are stored in ‘folders’. As we move to the new touch interaction model, the desktop interface may soon be a thing of the past, including its interactions and metaphors. With a touch screen, the touch of the cursor is replaced by the human finger.

@@ -5,6 +5,17 @@ permalink: /assignments
 
 # Assignments
 
+## Week 10
+
+* Project
+  * [Project 5]({{ 'projects#project-5---javascript-transformation' | absolute_url }}) (due 11/28)
+
+* Final (due 11/14)
+  * We’ll be working with you closely to help develop your ideas over the next couple of weeks and to help you implement them. By next class we would like you to come up with 1-3 ideas written down that we can discuss. Feel free to bring along references.
+  * [Project 6]({{ 'projects#project-6---final' | absolute_url }})
+
+
+
 ## Week 8 (due 10/31)
 * Reading
   * [Jodi’s Infrastructure by Alexander R. Galloway](https://www.e-flux.com/journal/74/59810/jodi-s-infrastructure/)

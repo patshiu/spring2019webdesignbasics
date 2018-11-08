@@ -2,9 +2,40 @@
 layout: default
 permalink: /resources
 ---
-# Resources 
+# Resources  
 
-## Links 
+## Cool Javascript
+
+### API's
+* [weather](https://developer.yahoo.com/weather/?guccounter=1)
+* [dogs](https://dog.ceo/dog-api/documentation/sub-breed)
+* [lob](https://lob.com/products/print-mail/postcards)
+* [twilio](https://www.twilio.com/)
+* [clarifai](https://clarifai.com/demo)
+
+### Manipulating the DOM
+* [Rafael Rozendaal, abstract browsing](https://www.newrafael.com/new-website-chrome-plugin-abstract-browsing-net/)
+* [Brand New Romanify](https://chrome.google.com/webstore/detail/brand-new-romanify/fndcohkbkkhiiooadonicmpjedngnekj/related)
+* [Eric Andre Plugin](https://chrome.google.com/webstore/detail/eric-andre/ifnboedoofdmkfihhgagddionacnpdhb/related?hl=en-US)
+
+### Text Manipulation
+* [Natural Language Processing with Javascript](http://compromise.cool/)
+* [Markov Chains](https://shiffman.github.io/A2Z-F16/week7-markov/03_markov_byword/)
+
+### Javascript Libraries
+* [p5.js](https://p5js.org/examples/)
+* [Learn p5.js here with Dan Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4)
+
+* [Tone.js](https://tonejs.github.io/)
+* [jazz.computer, made with Tone.js](http://jazz.computer/)
+* [Three.js, web graphics](https://threejs.org/)
+* [Adult Swim Singles (uses three.js)](http://www.adultswim.com/music/singles-2017/55)
+* [Elastic Man (and others), uses three.js](http://www.adultswim.com/etcetera/elastic-man/)
+* [Tensorflow.js, browser based machine learning](https://js.tensorflow.org/)
+* [emoji scavenger hunt (made with tensorflow.js)](https://emojiscavengerhunt.withgoogle.com/)
+* [posenet (uses tensorflow.js)](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html)
+* [CLM trackr - javascript face detection](https://www.auduno.com/clmtrackr/examples/facedeform.html)
+## Links
 
 ### Collections of Websites
 
