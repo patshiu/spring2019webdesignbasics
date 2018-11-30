@@ -5,6 +5,11 @@ permalink: /assignments
 
 # Assignments
 
+## Week 12
+
+* Final (due 12/12)
+    * [Project 6]({{ 'projects#project-6---final' | absolute_url }})
+
 ## Week 10
 
 * Project
