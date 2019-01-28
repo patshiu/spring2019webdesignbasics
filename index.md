@@ -9,7 +9,7 @@ Web Design Basics is designed to introduce students to programming as a creative
 ![Battle programmer Shirase]({{ "/assets/battle_programmer_shirase.jpg" | absolute_url }})
 
 ## Teachers
-* [Seth Kranzler](mailto:kranzles@newschool.edu)
+* [Pat Shiu](mailto:shiup@newschool.edu)
 * [Will Denton](mailto:goldweiw@newschool.edu)
 
 ## Course Outline
@@ -24,7 +24,7 @@ Students will learn the basics of markup (HTML) and style (CSS) in the context o
 
 ### Weeks 9-11 *Interaction, Media, and API’s*
 
-Students are introduced to dynamic interaction using Javascript, and should explore common logic patterns and control flow within the language. External media and protocols are introduced to respond to more complex compositional or narrative-based assignments. Students should build on their understanding of fundamental programming concepts to create projects which respond dynamically to external input (user, dataset, API, etc.). 
+Students are introduced to dynamic interaction using Javascript, and should explore common logic patterns and control flow within the language. External media and protocols are introduced to respond to more complex compositional or narrative-based assignments. Students should build on their understanding of fundamental programming concepts to create projects which respond dynamically to external input (user, dataset, API, etc.).
 
 ### Week 12-15 *Bring it Together / Final Project*
 
@@ -32,21 +32,21 @@ This class culminates in a a longer form project that builds on the topics discu
 
 ## Learning Outcomes
 
-By the successful completion of this course, students will be able to: 
+By the successful completion of this course, students will be able to:
 
-* Concept projects that use interactivity and code in a creative way 
-* Demonstrate knowledge of fundamental programming concepts 
+* Concept projects that use interactivity and code in a creative way
+* Demonstrate knowledge of fundamental programming concepts
 * Evaluate how typography is applied to interactive systems to facilitate orientation, usability and to create consistency
-* Develop several visual & interactive projects 
-* Objectively present their design process and workflow 
-* Integrate a variety of media elements into their projects 
-* Problem solve with other students through reading other students’ code 
-* Demonstrate the ability to research and learn unfamiliar technical topics 
-* Research historic and current design precedents to contextualize their work 
+* Develop several visual & interactive projects
+* Objectively present their design process and workflow
+* Integrate a variety of media elements into their projects
+* Problem solve with other students through reading other students’ code
+* Demonstrate the ability to research and learn unfamiliar technical topics
+* Research historic and current design precedents to contextualize their work
 
 ## Readings
 
-There is no required textbook for this course. Readings will be assigned each week to be discussed in the following class. 
+There is no required textbook for this course. Readings will be assigned each week to be discussed in the following class.
 
 ## Notes on Coding
 
