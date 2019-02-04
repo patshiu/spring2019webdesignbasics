@@ -130,7 +130,7 @@ The Making Center is a constellation of shops, labs, and open workspaces that ar
 | C-    | Passing work but below good academic standing                                                                                                                 |
 | D     | Below-average work that indicates a student does not fully understand the assignments; Probation level though passing for credit                              |
 | F     | Failure, no credit                                                                                                                                            |
-  
+
 ### Grade of W
 
 The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript. A grade of W may also be issued by an instructor to a graduate student (except at Parsons and Mannes) who has not completed course requirements nor arranged for an Incomplete.

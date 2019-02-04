@@ -5,16 +5,30 @@ permalink: /assignments
 
 # Assignments
 
+## Week 3 (due 2/14)
+#### In-Class Exercise
+1. Code Academy Introduction to CSS
+2. Bauhaus Poster CSS Coding Practice (cont'd)
+  * [https://github.com/patshiu/PSAM-exercise2](https://github.com/patshiu/PSAM-exercise2)
+
+#### Assignment
+  * *To be announced.*
+
 ## Week 2 (due 2/7)
 #### Reading
-  * Week 1 & 2 Recap
-    * [Slides](https://drive.google.com/open?id=1IWJTn0dAQouSpyQqri9oyLx7OdAkkBGh8jUeL2Yf0r8)
-    * [Accompanying Video](https://drive.google.com/open?id=1dn8gM1z5VM1bGHHuDQBFUbAfp3dKbHmH)
-  *   
+  1. Week 1 & 2 Recap  
+  - [Slides](https://drive.google.com/open?id=1IWJTn0dAQouSpyQqri9oyLx7OdAkkBGh8jUeL2Yf0r8)  
+  - [Accompanying Video](https://drive.google.com/open?id=1dn8gM1z5VM1bGHHuDQBFUbAfp3dKbHmH)  
+  2. *week 2 readings?*   
   * Remember to come prepared with 1-2 questions for discussion.
 
-#### Project
-  * *To be announced.*
+#### In-Class exercise
+  * Bauhaus Poster CSS Coding Practice
+    * [https://github.com/patshiu/PSAM-exercise2](https://github.com/patshiu/PSAM-exercise2)
+
+#### Assignment
+  * *None*
+
 
 #### Other Notes
   * Please sign up for a [free CodeAcademy account](https://www.codecademy.com/) before class, we will be doing a short exercise on CSS together.
@@ -35,7 +49,7 @@ permalink: /assignments
 
 #### Other Notes
   * Moving forward please hold on to your in-class assignments as we will be collecting these at the end of the term. Do keep a tidy folder structure.
-  
+
 
 <!--
 ## Week 12
