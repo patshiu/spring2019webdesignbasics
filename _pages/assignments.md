@@ -5,6 +5,39 @@ permalink: /assignments
 
 # Assignments
 
+## Week 2 (due 2/7)
+#### Reading
+  * Week 1 & 2 Recap
+    * [Slides](https://drive.google.com/open?id=1IWJTn0dAQouSpyQqri9oyLx7OdAkkBGh8jUeL2Yf0r8)
+    * [Accompanying Video](https://drive.google.com/open?id=1dn8gM1z5VM1bGHHuDQBFUbAfp3dKbHmH)
+  *   
+  * Remember to come prepared with 1-2 questions for discussion.
+
+#### Project
+  * *To be announced.*
+
+#### Other Notes
+  * Please sign up for a [free CodeAcademy account](https://www.codecademy.com/) before class, we will be doing a short exercise on CSS together.
+
+
+
+## Week 1 (due 1/31)
+#### Readings
+  1. [The Art of the Internet, Restored and Out in the World, NYT article by Sophie Haigney](https://www.nytimes.com/2019/01/23/arts/design/internet-art-new-museum-rhizome.html)  
+  2. [A Vernacular Web, by Olia Lialina](http://art.teleportacia.org/observation/vernacular/)  
+    - To progress through the piece make sure you click on the arrow button in the bottom right hand corner.
+  3. [Why Designers Can't Think, by Michael Beirut](https://risd.generic.cx/why.html)
+    - Remember to come prepared with 1-2 questions for discussion.
+
+#### In-Class Exercise:
+  * *Hello My Name Is* Coding Practice
+    * [Exercise 1 Source Files](https://github.com/patshiu/hello)
+
+#### Other Notes
+  * Moving forward please hold on to your in-class assignments as we will be collecting these at the end of the term. Do keep a tidy folder structure.
+  
+
+<!--
 ## Week 12
 
 * Final (due 12/12)
@@ -83,7 +116,7 @@ permalink: /assignments
 * Project
   * [Project 2]({{ 'projects#project-2---Iterations-on-a-poster-' | absolute_url }})
 
-* Notes 
+* Notes
   * Next class will be a work session and special topics. Will and I will be helping with one-on-one code and design help. This will also be a time to ask "how do I do *this*?"
 
 ## Week 3 (due 9/26)
@@ -104,32 +137,4 @@ permalink: /assignments
 * Notes
   * If you haven't already, please email us the link to your GitHub Pages before class
   * We've updated "how to create new pages on GitHub" (found [here]( {{ 'guides/using_github_pages.html' | absolute_url }} )) to include an important final step
-  * Rather than make a new repository for each project, feel free to make folders in your "[username].github.io" folder and publish that way, if that is easier
-
-## Week 2 (due 9/12)
-* Reading
-  * [Software is Eating the World by Marc Andreeson](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
-  * Remember to come prepared with 1-2 questions for discussion.
-
-* Project
-  * [Project 1]({{ 'projects#project-1---hyperlink-text' | absolute_url }}) due 9/12
-
-* Design
-  * Create an [Are.na](https://www.are.na/) account and link to it on your main GitHub page. Save at least one website that you like or find interesting to your Are.na page. If you need a place to start, look at some of the links on the [resources](../resources) page. Come to class prepared to discuss your choice.
-
-* Notes
-  * Please email us the link to your GitHub Pages before class
-  * We've put together a guide on how to create new pages on GitHub [here]( {{ 'guides/using_github_pages.html' | absolute_url }} )
-
-## Week 1 (due 9/5)
-* Reading
-  * [What is Code? by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-  * You don't have to get through the whole thing but it is a fun read so make sure you scroll through
-  * [The Vernacular Web by Olia Lialina](http://art.teleportacia.org/observation/vernacular/)
-  * To progress through the piece make sure you click on the arrow button in the bottom right hand corner
-  * Remember to come prepared with 1-2 questions for discussion.
-* Coding Practice
-  * Sign up for [learn.freecodecamp.org](https://learn.freecodecamp.org) and do the Introduction to Basic HTML and HTML5 lessons, which can be found [here](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5). You can skip the lessons between "Create a Text Field" and "Check Radio Buttons and Checkboxes by Default". When you are done, review semantic HTML [here](https://www.hongkiat.com/blog/html-5-semantics/).
-
-* Other Notes
-  * Moving forward please hold on to your in-class assignments as we will be collecting these at the end of the term. 
+  * Rather than make a new repository for each project, feel free to make folders in your "[username].github.io" folder and publish that way, if that is easier -->

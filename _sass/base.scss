@@ -1,10 +1,19 @@
 $ace: 14px/16px "Ace Lift", Arial, "Helvetica Neue", Helvetica, sans-serif;
 $times: 14px/16px TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-
 $tablet-width: 700px;//changed from 768
 $laptop-width: 1024px;
 $desktop-width: 1440px;
 $fourk-width: 1920px;
+
+@font-face {
+  font-family: "Ace Lift";
+  src: local("☺︎"),
+    url("assets/fonts/ace_lift.woff") format("woff"),
+    url("assets/fonts/ace_lift.otf'") format("opentype"),
+    url("assets/fonts/ace_lift.eot"),
+    url("assets/fonts/ace_lift.eot") format("embedded-opentype"),
+    url("assets/fonts/ace_lift.ttf") format("truetype");
+}
 
 @mixin tablet {
   @media (min-width: #{$tablet-width}) and (max-width: #{$laptop-width - 1px}) {
@@ -74,6 +83,7 @@ $fourk-width: 1920px;
   }
 }
 
+
 body {
   background-color: black;
   color: white;
@@ -112,9 +122,8 @@ h1,h2 {
 
 // ,h3,h4,h5,li
 
-p, h3, li {
+p, h3, li, td {
   font: $times;
-
   @include laptop {
     font-size: 18px;
     line-height: 20px;
@@ -127,6 +136,31 @@ p, h3, li {
 
   @include fourk {
     font-size: 28px;
+    line-height: 30px;
+  }
+}
+
+td {
+  padding-bottom: 1em;
+}
+
+th {
+  font-family: sans-serif;
+  text-align:  left;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+  @include laptop {
+    font-size: 10px;
+    line-height: 20px;
+  }
+
+  @include desktop {
+    font-size: 12px;
+    line-height: 22px;
+  }
+
+  @include fourk {
+    font-size: 20px;
     line-height: 30px;
   }
 }
@@ -179,20 +213,17 @@ main {
     }
   }
 
-  h3, h4, h5 {
+  h3 {
     margin: 50px 0 15px;
+  }
+
+  h4, h5 {
+    font-size: 1.5rem;
+    margin: 50px 0 15px 15px;
   }
 
   p {
     margin: 0 0 50px;
-
-    // @include desktop {
-    //   margin: 75px 0;
-    // }
-
-    // @include fourk {
-    //   margin: 85px 0;
-    // }
   }
 
   img {
@@ -208,9 +239,10 @@ main {
     margin: 10px 0;
   }
 
-  // li::before {
-  //     content: "- ";
-  //   }
+  ol>li {
+    margin: 10px 0 30px 30px;
+    display:list-item;
+  }
 }
 
 a {

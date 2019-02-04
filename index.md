@@ -9,8 +9,9 @@ Web Design Basics is designed to introduce students to programming as a creative
 ![Battle programmer Shirase]({{ "/assets/battle_programmer_shirase.jpg" | absolute_url }})
 
 ## Teachers
-* [Pat Shiu](mailto:shiup@newschool.edu)
-* [Will Denton](mailto:goldweiw@newschool.edu)
+* Pat Shiu — patshiu@newschool.edu  
+* Will Denton — goldweiw@newschool.edu  
+* _Office hours by appointment only._
 
 ## Course Outline
 
@@ -28,7 +29,7 @@ Students are introduced to dynamic interaction using Javascript, and should expl
 
 ### Week 12-15 *Bring it Together / Final Project*
 
-This class culminates in a a longer form project that builds on the topics discussed thus far in the class. This project can be self-initiated/proposal-based, or can respond to a set of parameters/framework provided by the instructors. The project should demonstrate each student’s ability to use programming to articulate their specific design process and outlook. Final projects should be published to the live web and documented for future reference.
+This class culminates in a longer form project that builds on the topics discussed thus far in the class. This project can be self-initiated/proposal-based, or can respond to a set of parameters/framework provided by the instructors. The project should demonstrate each student’s ability to use programming to articulate their specific design process and outlook. Final projects should be published to the live web and documented for future reference.
 
 ## Learning Outcomes
 
@@ -46,21 +47,43 @@ By the successful completion of this course, students will be able to:
 
 ## Readings
 
-There is no required textbook for this course. Readings will be assigned each week to be discussed in the following class.
+Weekly readings will be assigned, *please come to class prepared for discussion*.
+
+The recommended textbook for this class is [**Learn to Code Now**](https://www.superhi.com/learn-to-code-now-book) by SuperHi.  
+![Learn to Code Now by SuperHi]({{ "assets/learn-to-code-now.jpg" | absolute_url }}) This book is available as a print or digital copy, with a 20% discount for students.
+
+[Purchase *Learn to Code Now* Book](https://www.superhi.com/learn-to-code-now-book)
+
+
 
 ## Notes on Coding
 
-Coding is not something that can be entirely taught in the classroom. In this class, we will outline key concepts of how HTML, CSS, and Javascript work together, but the majority of the learning will occur outside of the classroom, as you write code. It is important that you write code and that you do it often. It is also important that you not be discouraged. Even the most experienced coders make mistakes. However, as you continue, you will get better at identify and debugging your errors. Persistence is crucial to success.
+In this class, we will outline key concepts of how HTML, CSS, and Javascript work together, but the majority of the learning will occur outside of the classroom, as you write code.  
+
+**It is important that you write code, and that you do it often.  
+Persistence is crucial to gaining fluency in code.**  
+
+If you should ever feel that you are unable to debug something, or stuck in any way, _contact your instructors_, we are here to help.
+
 
 ## Materials
 
+**Coding Tools**
 Please come to class with a laptop, charger, notebook and pen. For programming we will have you use the following (free) programs and services:
 
-* [Github](https://github.com)
-* [Sublime Text](https://www.sublimetext.com/)
-* [Google Chrome](https://www.google.com/chrome/)
+* [Atom Text Editor](https://atom.io/)
+* [Google Chrome Browser](https://www.google.com/chrome/)
 
-While it will not be required, we encourage you to use [Sketch](https://www.sketchapp.com) for design as it is now the industry standard for web/ux/ui design. There is a free 30 day trial on their website as well as a 50% discount for students.
+**Design Tools**
+We encourage you to use [Sketch](https://www.sketchapp.com) for design as it is now the industry standard for web/ux/ui design. There is a free 30 day trial on their website as well as a 50% discount for students. Unfortunately, it is only for Mac OS.
+
+An alternative to Sketch is [Adobe XD](https://www.adobe.com/br/products/xd.html). It is free and cross-platform.
+
+**Design Research Tools**
+Web design research will be a core part of this class. You will be expected to show some references and influences for your work. We recommend using Are.na for this.   
+* [Are.na](https://www.are.na/)
+
+
 
 ## Resources
 
@@ -71,7 +94,6 @@ There are a number of free resources that are available to you to help you with 
 * [Lynda](https://www.lynda.com/)
 * [CSS Tricks](https://css-tricks.com)
 
-If you are interested in a reference book, we recommend SuperHi’s “Learn to Code Now”, which is explicitly written for people who work in the creative industry. It is available through their [website](https://www.superhi.com/learn-to-code-now-book) as a print or digital copy, with a 20% discount for students.
 
 The university also provides many resources to help students achieve academic and artistic excellence. These resources include:
 
@@ -94,30 +116,30 @@ The Making Center is a constellation of shops, labs, and open workspaces that ar
 * Final Assignment 30%
 * Total 100%
 
-Grades
+## Grades  
 
-* (A) Work of exceptional quality, which often goes beyond the stated goals of the course
-* (A-) Work of very high quality
-* (B+) Work of high quality that indicates higher than average abilities
-* (B) Very good work that satisfies the goals of the course
-* (B-) Good work
-* (C+) Above-average work
-* (C ) Average work that indicates an understanding of the course material; passable
-Satisfactory completion of a course is considered to be a grade of C or higher.
-* (C-) Passing work but below good academic standing
-* (D) Below-average work that indicates a student does not fully understand the assignments; Probation level
-though passing for credit
-* (F) Failure, no credit
-
-## Grade of W
+| Grade | Quality of Student Work                                                                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| A     | Work of exceptional quality, which often goes beyond the stated goals of the course                                                                           |
+| A-    | Work of very high quality                                                                                                                                     |
+| B+    | Work of high quality that indicates higher than average abilities                                                                                             |
+| B     | Very good work that satisfies the goals of the course                                                                                                         |
+| B-    | Good work                                                                                                                                                     |
+| C+    | Above-average work                                                                                                                                            |
+| C     | Average work that indicates an understanding of the course material; passable Satisfactory completion of a course is considered to be a grade of C or higher. |
+| C-    | Passing work but below good academic standing                                                                                                                 |
+| D     | Below-average work that indicates a student does not fully understand the assignments; Probation level though passing for credit                              |
+| F     | Failure, no credit                                                                                                                                            |
+  
+### Grade of W
 
 The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript. A grade of W may also be issued by an instructor to a graduate student (except at Parsons and Mannes) who has not completed course requirements nor arranged for an Incomplete.
 
-## Grade of Z
+### Grade of Z
 
 The grade of Z is issued by an instructor to a student who has not attended or not completed all required work in a course but did not officially withdraw before the withdrawal deadline. It differs from an “F,” which would indicate that the student technically completed requirements but that the level of work did not qualify for a passing grade.
 
-## Grades of Incomplete
+### Grades of Incomplete
 
 The grade of I, or temporary incomplete, may be granted to a student under unusual and extenuating circumstances, such as when the student’s academic life is interrupted by a medical or personal emergency. This mark is not given automatically but only upon the student’s request and at the discretion of the instructor. A Request for Incomplete form must be completed and signed by student and instructor. The time allowed for completion of the work and removal of the “I” mark will be set by the instructor with the following limitations:
 
@@ -158,6 +180,6 @@ The use of electronic devices (phones, tablets, laptops, cameras, etc.) is permi
 Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary
 probation, suspension from the university, or dismissal from the university.
 
-Students are responsible for understanding the University’s policy on academic honesty and integrity and must make use of proper citations of sources for writing papers, creating, presenting, and performing their work, taking examinations, and doing research. It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others. The full text of the policy, including adjudication procedures, is found athttp://www.newschool.edu/policies/# Resources regarding what plagiarism is and how to avoid it can be found on the Learning Center’s website: http://www.newschool.edu/university-learning-center/student- resources/
+Students are responsible for understanding the University’s policy on academic honesty and integrity and must make use of proper citations of sources for writing papers, creating, presenting, and performing their work, taking examinations, and doing research. It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others. The full text of the policy, including adjudication procedures, is found athttp://www.newschool.edu/policies/# Resources regarding what plagiarism is and how to avoid it can be found on the Learning Center’s website: http://www.newschool.edu/university-learning-center/student-resources/
 
 The New School views “academic honesty and integrity” as the duty of every member of an academic community to claim authorship for his or her own work and only for that work, and to recognize the contributions of others accurately and completely. This obligation is fundamental to the integrity of intellectual debate, and creative and academic pursuits. Academic honesty and integrity includes accurate use of quotations, as well as appropriate and explicit citation of sources in instances of paraphrasing and describing ideas, or reporting on research findings or any aspect of the work of others (including that of faculty members and other students). Academic dishonesty results from infractions of this “accurate use”. The standards of academic honesty and integrity, and citation of sources, apply to all forms of academic work, including submissions of drafts of final papers or projects. All members of the University community are expected to conduct themselves in accord with the standards of academic honesty and integrity. Please see the complete policy in the Parsons Catalog.

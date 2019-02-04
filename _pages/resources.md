@@ -4,6 +4,10 @@ permalink: /resources
 ---
 # Resources  
 
+## Previous Runs of this Class
+* [PSAM 1028 – Fall 2018](https://channelstudio.github.io/fall2018webdesignbasics)
+
+
 ## Cool Javascript
 
 ### API's
@@ -35,6 +39,8 @@ permalink: /resources
 * [emoji scavenger hunt (made with tensorflow.js)](https://emojiscavengerhunt.withgoogle.com/)
 * [posenet (uses tensorflow.js)](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html)
 * [CLM trackr - javascript face detection](https://www.auduno.com/clmtrackr/examples/facedeform.html)
+
+
 ## Links
 
 ### Collections of Websites
@@ -100,5 +106,3 @@ permalink: /resources
 * [https://usemodify.com](https://usemodify.com)
 * [https://fonts.google.com/specimen/Cormorant+Garamond](https://fonts.google.com/specimen/Cormorant+Garamond)
 * [https://int10h.org/oldschool-pc-fonts/fontlist/](https://int10h.org/oldschool-pc-fonts/fontlist/)
-
-

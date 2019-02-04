@@ -5,7 +5,9 @@ permalink: /projects
 
 # Projects
 
-## Project 6 - Final
+Class Projects will be added here.  
+
+<!-- ## Project 6 - Final
 
 Create a digital environment through the browser that has a similar immersive quality to that of a physical installation. The environment that you create should engross the visitor and take them on some kind of an emotional journey. That could take the form of a linear narrative—something with a beginning, middle, and end—or something that is more abstract and exploratory. The idea is to use the web as an artistic medium to transport your audience somewhere else.
 
@@ -16,7 +18,7 @@ The final project will be graded based on the following:
 * Immersion and Modes of Interaction - 20%
     * Does the project exhibit several distinct modes of interaction?
     * Does the site create an immersive experience?
-  
+
 * Theme - 20%
     * Does the site follow the prompt and have a consistent user experience?
     * Does the site take the user on an emotional journey?
@@ -47,8 +49,8 @@ This project asks you to investigate the desktop interface, specifically through
 Create 5 one-page web pages that each explore a physical metaphor in digital space through a single hover state (clock, bouncing ball, police car light, wind, etc.) each animating one of the following CSS properties on hover:
 
 * Background color
-* Scale 
-* Shape 
+* Scale
+* Shape
 * Rotation
 * Any other CSS property or combination of them
 
@@ -68,9 +70,9 @@ References
 
 ## Project 3 - 15 Variations
 
-### Week 1 
+### Week 1
 
-Find a piece of text that could easily fit on one printed page. This could be an excerpt from an essay, an interview, poem, etc. You will make 15 variations of this text. Each variation will be a separate webpage. For each variation, you will focus on changing the text's form through shifts in composition, typography, hierarchy, scale, and pacing. The text's content must remain intact throughout all 15 variations. Define 5 rules of changes for your text. For each of the rule come up with 3 variations each. For example, if the first rule is scale, then invent 3 significantly different ways of scaling the text. The purpose of the assignment is to push the boundaries and play with legibility, so no minor changes—shoot for making as broad a variation as possible. Do not use images. 
+Find a piece of text that could easily fit on one printed page. This could be an excerpt from an essay, an interview, poem, etc. You will make 15 variations of this text. Each variation will be a separate webpage. For each variation, you will focus on changing the text's form through shifts in composition, typography, hierarchy, scale, and pacing. The text's content must remain intact throughout all 15 variations. Define 5 rules of changes for your text. For each of the rule come up with 3 variations each. For example, if the first rule is scale, then invent 3 significantly different ways of scaling the text. The purpose of the assignment is to push the boundaries and play with legibility, so no minor changes—shoot for making as broad a variation as possible. Do not use images.
 
 For inspiration take a look at Carl Dair’s [principles of typographic contrast](https://drive.google.com/open?id=1qULLI4dcY1gE54EaLxhYmL_Bq7puo5qI) that we discussed in week 3
 
@@ -78,7 +80,7 @@ For inspiration take a look at Carl Dair’s [principles of typographic contrast
 
 Add a navigation page for your 15 variations. Use the tools we learned in class to make the navigation page responsive for mobile, tablet, and desktop screen sizes. Your variations do not need to be responsive but feel free to update them if you wish. Get creative with your design and experiment with different kinds of nav layouts, keeping usability in mind.
 
-## Project 2 - Iterations on a poster 
+## Project 2 - Iterations on a poster
 
 ### Week 1
 
@@ -86,9 +88,9 @@ Choose a real or fake event that you want to promote. Using flexbox, make five i
 
 ### Week 2
 
-Continue refining your posters. If you'd like to more closely follow the style of an existing poster using flexbox this is also acceptable.
+Continue refining your posters. If you'd like to more closely follow the style of an existing poster using flexbox this is also acceptable. -->
 
-## Project 1 - Hyperlink Text 
+<!-- ## Project 1 — 
 
 ### Week 1
 
@@ -96,4 +98,4 @@ Using [My Boyfriend Came Back From the War](http://www.teleportacia.org/war/) as
 
 ### Week 2
 
-Take the assignment you made for week 1 and use external CSS to style it. Experiment with using different selectors to target elements on your pages. Make sure to try using margin, padding, width, height, font, color, and background rules. Also be sure that you use only CSS for styling your page - no [inline styles](https://www.lifewire.com/avoid-inline-styles-for-css-3466846) in the HTML or use of the \<center\> [obsolete](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/center) tag. Try to give each page its own unique style.
+Take the assignment you made for week 1 and use external CSS to style it. Experiment with using different selectors to target elements on your pages. Make sure to try using margin, padding, width, height, font, color, and background rules. Also be sure that you use only CSS for styling your page - no [inline styles](https://www.lifewire.com/avoid-inline-styles-for-css-3466846) in the HTML or use of the \<center\> [obsolete](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/center) tag. Try to give each page its own unique style. -->
