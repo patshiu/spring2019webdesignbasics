@@ -19,8 +19,11 @@ permalink: /assignments
   1. Week 1 & 2 Recap  
   - [Slides](https://drive.google.com/open?id=1IWJTn0dAQouSpyQqri9oyLx7OdAkkBGh8jUeL2Yf0r8)  
   - [Accompanying Video](https://drive.google.com/open?id=1dn8gM1z5VM1bGHHuDQBFUbAfp3dKbHmH)  
-  2. *week 2 readings?*   
-  * Remember to come prepared with 1-2 questions for discussion.
+  2. For reading for this week, please read [What is Code by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
+You do not have to read all of it but read as much as you can.
+  * Remember to come prepared with 1-2 questions for discussion. Again, please post questions in the Reading Google Doc:
+    - [https://docs.google.com/document/d/1gGiKRNkdjZkYwNEglkK7PLu40t1gQSW5o__bmRB2wyw/edit](
+https://docs.google.com/document/d/1gGiKRNkdjZkYwNEglkK7PLu40t1gQSW5o__bmRB2wyw/edit)
 
 #### In-Class exercise
   * Bauhaus Poster CSS Coding Practice
