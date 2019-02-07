@@ -7,9 +7,9 @@ permalink: /assignments
 
 ## Week 3 (due 2/14)
 #### In-Class Exercise
-1. Code Academy Introduction to CSS
+1. [Code Academy Introduction to CSS](https://www.codecademy.com/learn)
 2. Bauhaus Poster CSS Coding Practice (cont'd)
-  * [https://github.com/patshiu/PSAM-exercise2](https://github.com/patshiu/PSAM-exercise2)
+  * [Source Files](https://github.com/patshiu/PSAM-exercise2)
   * [Completed Brochure Site](https://patshiu.github.io/PSAM-exercise2-done/)
 
 #### Assignment
