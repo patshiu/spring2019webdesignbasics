@@ -5,15 +5,28 @@ permalink: /assignments
 
 # Assignments
 
-## Week 3 (due 2/14)
+## Week 5
+#### Assignment 2 (due 2/27)
+* Bauhaus Poster CSS Practices 2
+  * Source Files — Same as week 3
+  * [Assignment 2: Step-by-Step Instructions](https://docs.google.com/document/d/1oU7tj7hXTf3xeO2fUdr_nV4E_dKtsnx1Uk6bTIHdOqs/edit?usp=sharing)
+
+## Week 4
+#### Assignment 1 (due 2/20)
+ * Bauhaus Poster CSS Practices 1
+   * [Source Files](https://github.com/patshiu/PSAM-exercise2)
+   * [Assignment 1: Step-by-Step Instructions](https://docs.google.com/document/d/1GWJ0zcIxQFyx7Iahg4i3unxbnNRZKNJWe99W65e5rqM/edit?usp=sharing)
+   * [Example of Assignment 1, Part 1 Completed](https://patshiu.github.io/PSAM-exercise2-text/)
+   * [Example of Assignment 1, Part 2 Completed](#)
+
+
+## Week 3
 #### In-Class Exercise
 1. [Code Academy Introduction to CSS](https://www.codecademy.com/learn)
 2. Bauhaus Poster CSS Coding Practice (cont'd)
   * [Source Files](https://github.com/patshiu/PSAM-exercise2)
   * [Completed Brochure Site](https://patshiu.github.io/PSAM-exercise2-done/)
 
-#### Assignment
-  * *To be announced.*
 
 ## Week 2 (due 2/7)
 #### Reading
