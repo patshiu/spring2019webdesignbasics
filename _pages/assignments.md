@@ -17,7 +17,7 @@ permalink: /assignments
    * [Source Files](https://github.com/patshiu/PSAM-exercise2)
    * [Assignment 1: Step-by-Step Instructions](https://docs.google.com/document/d/1GWJ0zcIxQFyx7Iahg4i3unxbnNRZKNJWe99W65e5rqM/edit?usp=sharing)
    * [Example of Assignment 1, Part 1 Completed](https://patshiu.github.io/PSAM-exercise2-text/)
-   * [Example of Assignment 1, Part 2 Completed](#)
+   * [Example of Assignment 1, Part 2 Completed](https://patshiu.github.io/PSAM-exercise2-layout/)
 
 
 ## Week 3
