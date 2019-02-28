@@ -7,7 +7,7 @@ permalink: /assignments
 ## Week 6
 #### Assignment 2 (due 3/1)
 * Bauhaus Poster CSS Practices 2
-  * Source Files — Same as week 3
+  * Source Files — Same as week 3, Use corrected / updated files if you have them please. 
   * [Assignment 2: Step-by-Step Instructions](https://docs.google.com/document/d/1oU7tj7hXTf3xeO2fUdr_nV4E_dKtsnx1Uk6bTIHdOqs/edit?usp=sharing)
   * [Example of Assignment 2 Completed](https://patshiu.github.io/PSAM-exercise2-done/)
 
