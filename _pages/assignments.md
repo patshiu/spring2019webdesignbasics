@@ -5,9 +5,14 @@ permalink: /assignments
 
 # Assignments
 ## Week 6
+#### Assignment 3 (due 3/8)
+* My Class Website is a Shifting House...
+  * [Source Files](https://www.dropbox.com/s/1z8b28ze58v8n7l/Assignment%203.zip?dl=0)
+  * [Assignment 3: Instructions](https://docs.google.com/document/d/1gUbhtLcv_v1Rd0b7BgwcJf5Cc6o-HBG9KoUomlUcMdk/edit?usp=sharing)
+
 #### Assignment 2 (due 3/1)
 * Bauhaus Poster CSS Practices 2
-  * Source Files — Same as week 3, Use corrected / updated files if you have them please. 
+  * Source Files — Same as week 3, Use corrected / updated files if you have them please.
   * [Assignment 2: Step-by-Step Instructions](https://docs.google.com/document/d/1oU7tj7hXTf3xeO2fUdr_nV4E_dKtsnx1Uk6bTIHdOqs/edit?usp=sharing)
   * [Example of Assignment 2 Completed](https://patshiu.github.io/PSAM-exercise2-done/)
 
