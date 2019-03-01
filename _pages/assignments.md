@@ -5,7 +5,7 @@ permalink: /assignments
 
 # Assignments
 ## Week 6
-#### Assignment 3 (due 3/8)
+#### Assignment 3 (due 3/7)
 * My Class Website is a Shifting House...
   * [Source Files](https://www.dropbox.com/s/1z8b28ze58v8n7l/Assignment%203.zip?dl=0)
   * [Assignment 3: Instructions](https://docs.google.com/document/d/1gUbhtLcv_v1Rd0b7BgwcJf5Cc6o-HBG9KoUomlUcMdk/edit?usp=sharing)
