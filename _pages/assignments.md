@@ -4,6 +4,24 @@ permalink: /assignments
 ---
 
 # Assignments
+
+## Week 8
+#### In-Class Presentation *Mid-Term Part 2: Websites*
+
+
+## Week 9
+#### TERM BREAK
+
+## Week 8
+#### In-Class Presentation *Mid-Term Part 1: Design Proposals*
+
+## Week 7
+#### Mid-Term Assignment
+  * [Mid-Term Assignment Brief](https://docs.google.com/document/d/1gAPEREJi9TmMN2gJ8vBseBXAixjpk81pVqffzPCmUfA/edit?usp=sharing
+  * Vote on favorite class page redesign (link coming)
+  * [Video: Tips on using the prototyping features of Sketch](https://www.youtube.com/watch?v=hE0dycKVCbI)
+
+
 ## Week 6
 #### Assignment 3 (due 3/7)
 * My Class Website is a Shifting House...
