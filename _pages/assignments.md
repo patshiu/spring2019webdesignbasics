@@ -6,14 +6,14 @@ permalink: /assignments
 # Assignments
 
 ## Week 8
-#### In-Class Presentation *Mid-Term Part 2: Websites*
+#### In-Class Presentation **Mid-Term Part 2: Completed Websites**
 
 
 ## Week 9
 #### TERM BREAK
 
 ## Week 8
-#### In-Class Presentation *Mid-Term Part 1: Design Proposals*
+#### In-Class Presentation **Mid-Term Part 1: Design Mockups**
 
 ## Week 7
 #### Mid-Term Assignment
