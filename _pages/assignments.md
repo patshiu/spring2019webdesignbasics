@@ -10,7 +10,7 @@ permalink: /assignments
 
 
 ## Week 9
-#### *T e r m   B r e a k*
+#### *T e r m &nbsp;&nbsp;&nbsp; B r e a k*
 
 ## Week 8
 #### In-Class Presentation **Mid-Term Part 1: Design Mockups**
