@@ -5,9 +5,24 @@ permalink: /assignments
 
 # Assignments
 
-## Week 8
-#### In-Class Presentation **Mid-Term Part 2: Completed Websites**
+## Week 11
+#### In-Class Presentation **Mid-Term Part 2: Completed Websites** (Continued)
 
+## Week 10
+#### In-Class Presentation **Mid-Term Part 2: Completed Websites**
+#### Homework & Assignment 4
+  1. [Assignment 4: CSS Animation](https://docs.google.com/document/d/1Ra-fz6WSfs1qONAKKDtghv_2DB-mVOxBLM3u6KIvzS8/edit?usp=sharing) (Due 4/11)
+
+  2. [CodeAcademy Intro to JavaScript](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript) (Due 4/4)
+
+#### Notes
+  * [Video tutorial on CSS animations](https://www.youtube.com/watch?v=zHUpx90NerM)
+
+  * [Video series on manipulating webpages with javascript](https://www.youtube.com/watch?v=FIORjGvT0kk)— This is a *very* long series, I'd recommend just watching videos \#2 through \#5, and only diving into this after you have completed the code academy course above.
+
+  * [Coding Train — A youtube channel about visual / creative coding](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+
+  * Article discussed in class today [Scroll, Skim, Stare by Orit Gat](http://oritgat.com/Scroll-Skim-Stare)
 
 ## Week 9
 #### *T e r m &nbsp;&nbsp;&nbsp; B r e a k*
