@@ -18,11 +18,16 @@ permalink: /assignments
 #### Notes
   * [Video tutorial on CSS animations](https://www.youtube.com/watch?v=zHUpx90NerM)
 
+
   * [Video series on manipulating webpages with javascript](https://www.youtube.com/watch?v=FIORjGvT0kk)— This is a *very* long series, I'd recommend just watching videos \#2 through \#5, and only diving into this after you have completed the code academy course above.
 
   * [Coding Train — A youtube channel about visual / creative coding](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
   * Article discussed in class today [Scroll, Skim, Stare by Orit Gat](http://oritgat.com/Scroll-Skim-Stare)
+
+  * Some [codepen](https://codepen.io/) CSS animation demos
+    * [demo 1](https://codepen.io/valhead/pen/htmKk)
+    * [demo 2](https://codepen.io/strapro/pen/dIqAH)
 
 ## Week 9
 #### *T e r m &nbsp;&nbsp;&nbsp; B r e a k*
