@@ -14,7 +14,8 @@ permalink: /assignments
   1. [Assignment 4: CSS Animation](https://docs.google.com/document/d/1Ra-fz6WSfs1qONAKKDtghv_2DB-mVOxBLM3u6KIvzS8/edit?usp=sharing) (Due 4/11)
 
   2. [CodeAcademy Intro to JavaScript](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript) (Due 4/4)
-    * Do chapters 1 (Introduction) through 7 (Iterators). You are only required to do the free lessons, no need to get a paid account. 
+
+  * Do chapters 1 (Introduction) through 7 (Iterators). You are only required to do the free lessons, no need to get a paid account. 
 
 #### Notes
   * [Video tutorial on CSS animations](https://www.youtube.com/watch?v=zHUpx90NerM)
