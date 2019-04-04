@@ -8,6 +8,9 @@ permalink: /assignments
 ## Week 11
 #### In-Class Presentation **Mid-Term Part 2: Completed Websites** (Continued)
 
+### homework
+  1. REMINDER: (Due 4/11) [Assignment 4: CSS Animation](https://docs.google.com/document/d/1Ra-fz6WSfs1qONAKKDt
+
 #### Notes
   * [Atom Live Server](https://atom.io/packages/atom-live-server)
   * [Flexbox Reference Example](https://www.dropbox.com/sh/ql5736x8fwx0sba/AABxlmUGm4ZSw__B2kwVrF_6a?dl=0)
