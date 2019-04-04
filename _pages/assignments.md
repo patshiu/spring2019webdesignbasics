@@ -8,6 +8,11 @@ permalink: /assignments
 ## Week 11
 #### In-Class Presentation **Mid-Term Part 2: Completed Websites** (Continued)
 
+#### Notes
+  * [Atom Live Server](https://atom.io/packages/atom-live-server)
+  * [Flexbox Reference Example](https://www.dropbox.com/sh/ql5736x8fwx0sba/AABxlmUGm4ZSw__B2kwVrF_6a?dl=0)
+
+
 ## Week 10
 #### In-Class Presentation **Mid-Term Part 2: Completed Websites**
 #### Homework & Assignment 4
@@ -15,7 +20,7 @@ permalink: /assignments
 
   2. [CodeAcademy Intro to JavaScript](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript) (Due 4/4)
 
-  * Do chapters 1 (Introduction) through 7 (Iterators). You are only required to do the free lessons, no need to get a paid account. 
+  * Do chapters 1 (Introduction) through 7 (Iterators). You are only required to do the free lessons, no need to get a paid account.
 
 #### Notes
   * [Video tutorial on CSS animations](https://www.youtube.com/watch?v=zHUpx90NerM)
