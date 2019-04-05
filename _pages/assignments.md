@@ -9,12 +9,14 @@ permalink: /assignments
 #### In-Class Presentation **Mid-Term Part 2: Completed Websites** (Continued)
 
 ### homework
-  1. REMINDER: (Due 4/11) [Assignment 4: CSS Animation](https://docs.google.com/document/d/1Ra-fz6WSfs1qONAKKDt
+  1. REMINDER: (Due 4/11) [Assignment 4: CSS Animation](https://docs.google.com/document/d/1Ra-fz6WSfs1qONAKKDtghv_2DB-mVOxBLM3u6KIvzS8/edit?usp=sharing)
 
 #### Notes
   * [Atom Live Server](https://atom.io/packages/atom-live-server)
   * [Flexbox Reference Example](https://www.dropbox.com/sh/ql5736x8fwx0sba/AABxlmUGm4ZSw__B2kwVrF_6a?dl=0)
-  * You can set a min-height / min-width of an element using viewport height (vh) and viewport width (vw) percentages — Here's a reference on the different [CSS Units](https://www.w3schools.com/cssref/css_units.asp) you can use. 
+  * You can set a min-height / min-width of an element using viewport height (vh) and viewport width (vw) percentages — Here's a reference on the different [CSS Units](https://www.w3schools.com/cssref/css_units.asp) you can use.
+  * [CSS Animation on W3Schools](https://www.w3schools.com/css/css3_animations.asp)
+  * [CSS Transitions on W3Schools](https://www.w3schools.com/css/css3_transitions.asp)
 
 
 ## Week 10
