@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### [Random Student Selectors](https://patshiu.github.io/lucky-you/.)
+### [Random Student Selector](https://patshiu.github.io/lucky-you/.)
 
 # People
 * [Tanvi Bhatnagar]()
