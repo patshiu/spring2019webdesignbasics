@@ -8,7 +8,7 @@ permalink: /assignments
 ## Week 11
 #### In-Class Presentation **Mid-Term Part 2: Completed Websites** (Continued)
 
-### homework
+#### Homework & Assignment 4
   1. REMINDER: (Due 4/11) [Assignment 4: CSS Animation](https://docs.google.com/document/d/1Ra-fz6WSfs1qONAKKDtghv_2DB-mVOxBLM3u6KIvzS8/edit?usp=sharing)
 
 #### Notes
