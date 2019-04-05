@@ -14,6 +14,7 @@ permalink: /assignments
 #### Notes
   * [Atom Live Server](https://atom.io/packages/atom-live-server)
   * [Flexbox Reference Example](https://www.dropbox.com/sh/ql5736x8fwx0sba/AABxlmUGm4ZSw__B2kwVrF_6a?dl=0)
+  * You can set a min-height / min-width of an element using viewport height (vh) and viewport width (vw) percentages — Here's a reference on the different [CSS Units](https://www.w3schools.com/cssref/css_units.asp) you can use. 
 
 
 ## Week 10
