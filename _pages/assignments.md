@@ -17,6 +17,7 @@ permalink: /assignments
   * You can set a min-height / min-width of an element using viewport height (vh) and viewport width (vw) percentages — Here's a reference on the different [CSS Units](https://www.w3schools.com/cssref/css_units.asp) you can use.
   * [CSS Animation on W3Schools](https://www.w3schools.com/css/css3_animations.asp)
   * [CSS Transitions on W3Schools](https://www.w3schools.com/css/css3_transitions.asp)
+  * [Examples of CSS Animations and Transitions](https://www.dropbox.com/sh/m7g8vbilqg1hlmx/AADXZuoPMkAn0CMCFz35VJqTa?dl=0)
 
 
 ## Week 10
