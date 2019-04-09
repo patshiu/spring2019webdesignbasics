@@ -18,6 +18,7 @@ permalink: /assignments
   * [CSS Animation on W3Schools](https://www.w3schools.com/css/css3_animations.asp)
   * [CSS Transitions on W3Schools](https://www.w3schools.com/css/css3_transitions.asp)
   * [Examples of CSS Animations and Transitions](https://www.dropbox.com/sh/m7g8vbilqg1hlmx/AADXZuoPMkAn0CMCFz35VJqTa?dl=0)
+  * [A Jelly Fish made purely from CSS Animation](https://codepen.io/FabioG/pen/QjLreK)
 
 
 ## Week 10
