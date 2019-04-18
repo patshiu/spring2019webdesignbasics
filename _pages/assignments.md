@@ -5,7 +5,9 @@ permalink: /assignments
 
 # Assignments
 
-## Week 15 : **Finals Due**
+## Week 16 : **Finals Due**
+
+## Week 15 : **In-Class Workshop**
 
 ## Week 14 : **In-Class Workshop**
 
