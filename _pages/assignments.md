@@ -19,10 +19,10 @@ permalink: /assignments
 
 ## Week 12
 #### In-Class Exercise : **Javascript Magic 8 Ball**
- * [Download these Source Files](https://www.dropbox.com/s/i8ndcko4ydxg1zt/eight-ball.zip?dl=0)
- * [See completed example](https://patshiu.github.io/PSAM-8-ball/)
+  * [Download these Source Files](https://www.dropbox.com/s/i8ndcko4ydxg1zt/eight-ball.zip?dl=0)
+  * [See completed example](https://patshiu.github.io/PSAM-8-ball/)
 #### Assignment 5
- * [Assignment 5: Javascript + DOM](https://docs.google.com/document/d/1BDpNqQwqJf3rKQ1MeiLiYD0xquDsGfepA_-FsPh6nh4/edit)
+  * [Assignment 5: Javascript + DOM](https://docs.google.com/document/d/1BDpNqQwqJf3rKQ1MeiLiYD0xquDsGfepA_-FsPh6nh4/edit)
 
 ## Week 11
 #### In-Class Presentation **Mid-Term Part 2: Completed Websites** (Continued)
