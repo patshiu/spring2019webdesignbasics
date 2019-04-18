@@ -5,10 +5,22 @@ permalink: /assignments
 
 # Assignments
 
+## Week 15 : **Finals Due**
+
+## Week 14 : **In-Class Workshop**
+
+## Week 13
+  * Finals Brief
+  * Animation with Vanilla Javascript
+    * [Source Files](https://www.dropbox.com/s/8r23ijzg19vq01c/Scroll-Animation.zip?dl=0)
+    * [Demo](https://patshiu.github.io/vanilla-js-eggs/)
+
 ## Week 12
 #### In-Class Exercise : **Javascript Magic 8 Ball**
  * [Download these Source Files](https://www.dropbox.com/s/i8ndcko4ydxg1zt/eight-ball.zip?dl=0)
  * [See completed example](https://patshiu.github.io/PSAM-8-ball/)
+#### Assignment 5
+ * [Assignment 5: Javascript + DOM]()
 
 ## Week 11
 #### In-Class Presentation **Mid-Term Part 2: Completed Websites** (Continued)
