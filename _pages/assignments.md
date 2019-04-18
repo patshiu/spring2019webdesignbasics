@@ -22,7 +22,7 @@ permalink: /assignments
  * [Download these Source Files](https://www.dropbox.com/s/i8ndcko4ydxg1zt/eight-ball.zip?dl=0)
  * [See completed example](https://patshiu.github.io/PSAM-8-ball/)
 #### Assignment 5
- * [Assignment 5: Javascript + DOM]()
+ * [Assignment 5: Javascript + DOM](https://docs.google.com/document/d/1BDpNqQwqJf3rKQ1MeiLiYD0xquDsGfepA_-FsPh6nh4/edit)
 
 ## Week 11
 #### In-Class Presentation **Mid-Term Part 2: Completed Websites** (Continued)
