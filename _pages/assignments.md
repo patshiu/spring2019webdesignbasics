@@ -16,6 +16,8 @@ permalink: /assignments
   * Animation with Vanilla Javascript
     * [Source Files](https://www.dropbox.com/s/8r23ijzg19vq01c/Scroll-Animation.zip?dl=0)
     * [Demo](https://patshiu.github.io/vanilla-js-eggs/)
+  * Animation with Javascript Library
+    * [Source Files](https://www.dropbox.com/s/n6439h7ber04dtp/Scroll-Animation-Lib.zip?dl=0)
 
 ## Week 12
 #### In-Class Exercise : **Javascript Magic 8 Ball**
