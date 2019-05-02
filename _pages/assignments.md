@@ -9,12 +9,15 @@ permalink: /assignments
 
 
 ## Week 15 : **In-Class Workshop**
+  * [Github](https://github.com)
+    * [Github workflow](https://guides.github.com/introduction/flow/)
   * Responsive Design
     * [Article: A UI Designer's Guide to Responsive Grids](https://medium.com/@drewmck/a-ui-designers-primer-to-responsive-grids-270b523e6fa2)
     * Sketch template with grid guidelines - Shared over email
     * [Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)
     * [The Responsive Grid](https://www.w3schools.com/css/css_rwd_grid.asp)
     * [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+    * ["A pixel is not a pixel"](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
     * [Responsive CSS Tutorial](/guides/responsive_design)
   * *¡•¡•¡* 𝖕𝖑𝖟 𝖋𝖎𝖑𝖑 𝖔𝖚𝖙 𝖇𝖞 𝖊𝖓𝖉 𝖔𝖋 𝖈𝖑𝖆𝖘𝖘 *!•!•!*
     * Course Evaluation
