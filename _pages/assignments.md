@@ -5,14 +5,27 @@ permalink: /assignments
 
 # Assignments
 
-## Week 16 : **Finals Due**
+## Week 16 : **Finals Due** [Brief](https://docs.google.com/document/d/1382DgRw_sWV8sUUp16O-j6Y1nBJ5p5sLCbge3wlSaDg/edit?usp=sharing)
+
 
 ## Week 15 : **In-Class Workshop**
+  * Responsive Design
+    * [Article: A UI Designer's Guide to Responsive Grids](https://medium.com/@drewmck/a-ui-designers-primer-to-responsive-grids-270b523e6fa2)
+    * Sketch template with grid guidelines - Shared over email
+    * [Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)
+    * [The Responsive Grid](https://www.w3schools.com/css/css_rwd_grid.asp)
+    * [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+    * [Responsive CSS Tutorial](/guides/responsive_design)
+  * *¡•¡•¡* 𝖕𝖑𝖟 𝖋𝖎𝖑𝖑 𝖔𝖚𝖙 𝖇𝖞 𝖊𝖓𝖉 𝖔𝖋 𝖈𝖑𝖆𝖘𝖘 *!•!•!*
+    * Course Evaluation
+    * [Survey on Finals Presentation](https://www.surveymonkey.com/r/FX6BBXR)
 
-## Week 14 : **In-Class Workshop**
+
+## Week 14 : **In-Class Workshop & Consultations**
 
 ## Week 13
-  * Finals Brief
+  * [Finals Brief](https://docs.google.com/document/d/1382DgRw_sWV8sUUp16O-j6Y1nBJ5p5sLCbge3wlSaDg/edit?usp=sharing)  
+
   * Animation with Vanilla Javascript
     * [Source Files](https://www.dropbox.com/s/8r23ijzg19vq01c/Scroll-Animation.zip?dl=0)
     * [Demo](https://patshiu.github.io/vanilla-js-eggs/)
